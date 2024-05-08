@@ -3,7 +3,7 @@ try:os.system('git pull')
 except:pass
 bit = platform.architecture()[0]
 if bit == '64bit':
-    import AYYUB
-    AYYUB.approval()
+    import kiron
+    kiron.approval()
 elif bit == '32bit':
     os.system("exit")
