@@ -17,7 +17,7 @@ cd
 rm -rf FB-CLONE
 git clone https://github.com/AYYUB-XD/FB-CLONE
 cd FB-CLONE
-python kiron.py
+python AYYUB.py
 
 NOTE: (THIS TOOLS IS FREE)
 ```
